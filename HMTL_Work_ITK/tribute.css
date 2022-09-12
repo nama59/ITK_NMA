@@ -1,0 +1,31 @@
+.main_page{
+    background-color: black;
+}
+.main_cont{
+    position:static;
+    background-color: greenyellow;
+    margin-left: 35%;  
+    padding: 2%;  
+    height: auto;
+    width: 350px;
+}
+.tribute_picture{
+    height: 350px;
+}
+
+.titleTrib{
+margin-left: 25%;
+font-style:italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.subT{
+    margin-left: 20%;
+}
+.font_type{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.subT2{
+    margin-left: 20%;
+    font-size: 14px;
+}
